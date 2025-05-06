@@ -1,0 +1,20 @@
+app.js — a dummy JavaScript file
+
+error.log — simulates an error log
+
+secret.env — simulates an environment file
+
+temp.txt — temporary file
+
+dont_look_here.txt — for fun!
+
+passwords.txt — (sarcastic example)
+
+meme.jpg — any random image
+
+final_final_REAL_v2.docx — classic
+
+ugly_code.js, crash_report.log, AI_generated_poem.md
+
+Also create a folder: dont_commit_this/ and put a fake file in it
+
